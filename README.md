@@ -32,14 +32,17 @@ $$
 $$
 Leg = (Coxa + Femur + Tibia) \cdot MaterialDensity + 3 \cdot Servo
 $$
+
 >Servo motors used weight $9g$ and I used `PLA` as my material for parts that means:
 
 $$
 Leg \approx 54,26g
 $$
+
 $$
 AllLegs \approx 434,12g
 $$
+
 Leg lengths:
 
 | Coxa  | 5cm  |
@@ -55,18 +58,23 @@ Leg lengths:
 $$
 Battery = 46g
 $$
+
 $$
 StepDownConvertor = 66g
 $$
+
 $$
 ServoModule \approx 60g
 $$
+
 $$
 MCU = 6g
 $$
+
 $$
 Display = 3g
 $$
+
 >Electrical components (without servos) weight around: $247g$.
 
 ---
@@ -75,13 +83,23 @@ $$
 $$
 LowerTorso \approx 128,27g
 $$
-$$RoofTorso \approx 95,25g$$
-$$Leg \approx 8 \cdot 55g$$
+
+$$
+RoofTorso \approx 95,25g
+$$
+
+$$
+Leg \approx 8 \cdot 55g
+$$
+
 $$
 ElectricalParts \approx 247g
 $$
+
 ---
+
 $$
 TotalWeight \approx 910,52g
 $$
+
 ---
