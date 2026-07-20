@@ -8,6 +8,8 @@ license = "MIT OR Apache-2.0"
 cortex-m = "0.7"
 cortex-m-rt = "0.7"
 embedded-hal = { version = "1.0.0" }
+embedded-graphics = "0.8.1"
+ssd1306 = "0.10.0"
 heapless = "0.9"
 
 defmt = "1"
